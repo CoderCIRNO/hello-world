@@ -2,9 +2,8 @@
 
 void main(void)
 {
-  while()
+  while(1)
   {
-    print("hello world!");
+    printf("hello world!");
   }
-  return 0;
 }
